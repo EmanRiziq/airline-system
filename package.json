@@ -3,5 +3,24 @@
     "@faker-js/faker": "^7.6.0",
     "uuid": "^9.0.0",
     "winston": "^3.8.2"
-  }
+  },
+  "name": "airline-system",
+  "description": "![airline system UML diagram](airline-systemUML.jpg)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmanRiziq/airline-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmanRiziq/airline-system/issues"
+  },
+  "homepage": "https://github.com/EmanRiziq/airline-system#readme"
 }
